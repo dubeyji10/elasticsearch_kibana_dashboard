@@ -14,10 +14,11 @@
  - Using Kibana to create data visualization
  
 
-## Dashboard example
-<a href="https://gifyu.com/image/SHaQ1"><img src="https://s8.gifyu.com/images/Screencast-from-21-06-22-06_01_25-PM-IST.md.gif" alt="Screencast-from-21-06-22-06_01_25-PM-IST.gif" border="0" /></a>
-<img src="https://s8.gifyu.com/images/Screencast-from-21-06-22-06_01_25-PM-IST.gif" alt="Screencast-from-21-06-22-06_01_25-PM-IST.gif" border="0" />
+## Dashboard example 
+[![ezgif-1-96ce5e1904.gif](https://i.postimg.cc/3NbJWy9y/ezgif-1-96ce5e1904.gif)](https://postimg.cc/WqgPH1Bj)
+
 
 ### Dataset Source : https://www.kaggle.com/datasets/mragpavank/big-mart-sales-dataset
 ### Elasticsearch : 7.17.4
 ### Kibana : 7.17.4
+#### youtube link : https://youtu.be/rrXVmsl_zcA
